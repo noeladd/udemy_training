@@ -49,3 +49,5 @@ builds/**/images/*
 # security / ssl
 *.pem
 *.xxjson
+.gitignore
+01_helloWorld/
